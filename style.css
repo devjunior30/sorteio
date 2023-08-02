@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+img {
+    width: 320px;
+    margin: 82px auto;
+    display: block;
+}
+
+main {
+   s
+}
+
+p {
+    color: beige;
+    text-align: center;
+    font-size: 30px;
+}
+
+input {
+    
+}
+
+#firstNumber {
+   
+}
+
+#secondNumber {
+   
+}
+
+button {
+    display: block;
+}
