@@ -55,7 +55,7 @@ button {
     font-weight: 700;
 }
 
-@media (max-width: 414px ), (max-height: 896px) {
+@media (max-width: 414px ) {
     img {
         width: 246px;
     }
