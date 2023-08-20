@@ -101,7 +101,7 @@ button:active {
         margin-right: auto;
         width: 168px;
         height: 46px;
-        background-color: rgb(0, 139, 139, .3);
+      
     }
 
     input::placeholder {
