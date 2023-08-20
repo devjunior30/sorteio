@@ -39,20 +39,22 @@ input {
     border: 5px solid #00FF00;
     outline: none;
     margin-bottom: 24px;
+    color: #1C1C1C;
 }
 
 
 input::placeholder {
-    color: gold;
+    color: 	#000080;
 }
 
 #firstNumber:focus {
     border: 3px solid red;
-    outline: none;
+    color: 	#8B008B;
 }
 
 #secondNumber:focus {
     border: 3px solid #4B0082;
+    color: #4B0082;
 }
 
 
@@ -63,8 +65,8 @@ button {
     height: 60px;
     border-radius: 24px;
     background-color: rgb(116, 255, 23);
-    color: #8B0000;
-    font-size: 18px;
+    color: #696969;
+    font-size: 23px;
     font-weight: 700;
     box-shadow: 2px 2px 2px 1px red;
 }
@@ -74,7 +76,7 @@ button:hover {
 }
 
 button:active {
-    opacity: .5;
+    opacity: .4;
     box-shadow: 10px 9px red;
 }
 
@@ -114,6 +116,11 @@ button:active {
 
     button::after {
         content: "💻";
+    }
+
+    #resultado {
+        font-size: 15px;
+        width: 50%;
     }
 
 }
