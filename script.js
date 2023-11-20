@@ -6,7 +6,7 @@ function sortear() {
 
     if (primeiroNumero >= segundoNumero) {
 
-        resultado.innerHTML = "O PRIMEIRO NUMERO NÃO PODE SER MAIOR QUE O SEGUNDO NUMERO"
+        resultado.innerHTML = "O primeiro numero não pode ser maior ou igual ao segundo numero"
 
     }
     else {
